@@ -3,7 +3,8 @@
 * masuk ke folder project
 * jalankan composer install
 * set .env (konek ke database)
-* jalankan php artisan jwt㊙️
+* jalankan php artisan migrate
+* jalankan php artisan jwt
 * jalankan php generate:key
 
 ## jalankan aplikasi
