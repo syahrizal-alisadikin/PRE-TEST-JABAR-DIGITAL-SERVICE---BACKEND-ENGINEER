@@ -4,7 +4,7 @@
 * jalankan composer install
 * set .env (konek ke database)
 * jalankan php artisan migrate
-* jalankan php artisan jwt
+* jalankan php artisan jwt:secret
 * jalankan php generate:key
 
 ## jalankan aplikasi
