@@ -5,7 +5,7 @@
 * set .env (konek ke database)
 * jalankan php artisan migrate
 * jalankan php artisan jwt:secret
-* jalankan php generate:key
+* jalankan php key:generate
 
 ## jalankan aplikasi
 * jalankan php artisan serve (bisa tambahin --port 1200)
